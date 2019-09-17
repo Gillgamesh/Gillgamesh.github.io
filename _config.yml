@@ -1,4 +1,25 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: "Gilvir's Portfolio"
+description: > 
+  Hello! I'm Gilvir, a NYC-based programmer and student. Thanks for checking out my Portfolio/Future Blog!
 
-title: "Gilvir's Webite"
-description: ""
+author: Gilvir Gill
+email: personal@gilvirgill.com
+github_username: gillgamesh
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://gilvirgill.com" # the base hostname & protocol for your site
+
+google_analytics_id: UA-1111111111-1
+disqus_id:
+
+# Build settings
+include: [_pages]
+markdown: kramdown
+permalink: /:year/:month/:title.html
+
+sass:
+    style: compressed
+
+exclude: [vendor]
+
