@@ -12,6 +12,18 @@ My hobbies outside of tech are reading, balling and struggling to learn the keyb
 
 ----
 
+## Things I('ve) Do(ne)
+
+* [SBU PoliTech](https://www.stonybrook.edu/commcms/vertically-integrated-projects/teams/_team_page/team_page.php?team=PoliTech) Research Team
+* [Kinet-X](https://www.kinet-x.org/) Learning Engineering Mentor / Advanced Course Manager
+* [NYC Interscholastic Math League](http://www.nyciml.org/) Lead Programmer
+* Stuyvesant High School Robotics (2015-2018; StuyFusion President 2017-18, Head of Software 2016-17)
+* Stuyvesant Student Union IT Director (2017-18), Alumni Advisor (18-19)
+
+For descriptions of some of the more interesting projects I've worked on (often-times related to these activities), please check out [Projects](/projects)!
+
+----
+
 ## This Website
 
 This website's styling and template is just slightly modified from Mike JS. Choi's Jekyll theme [Paper](https://github.com/mkchoi212/paper-jekyll-theme), and is hosted on Github Pages (using Jekyll 3, of course). It gives me a nice platform for writing blog posts in a Markdown superset, in addition to keeping my projects updated whenever possible.
