@@ -19,8 +19,8 @@ Many of these projects were originally for school and have only been slightly mo
 - [2017](#2017)
     - [EmenbeeAntiCheat](#emenbeeanticheat)\*\*
     - [Cuties CV](#cuties-cv)\*
-- [2016](#2016)
-- [2015](#2015)
+    - [Shmouse](#shmouse-and-joshell)
+- [2016/2015](#20152016)
 
 ---
 
@@ -168,6 +168,21 @@ and hitbox inaccuracy (how far the player's orientation is from the center of th
 After making a very primative version with Bryan, my future innovations on this system were to classify batches of hits rather than a single hit
 (letting us see change over time and possibly detect patterns for random autoclickers), and
 look at more properties than just hitbox inaccuracy. Unfortunately, Bryan passed earlier in 2019, and because of his initial contributions to the codebase and ownership of Emenbee Intellectual Property, and out of respect for his initial desire to keep the code private, I'm unable to provide the source code. However, if anyone would be interested in more details of how we went around implementing this and how successful our process was, feel free to hit up my Email!
+
+## Shmouse and Joshell
+
+### Links
+
+* [Shmouse Source](https://gitlab.com/Gillgamesh/shmouse)
+* [Joshell Source](https://github.com/gillgamesh/joshell)
+
+### Description
+
+Shmouse is a very basic, partially functional tool for sharing clipboards and mice between different computers, written in C for X11-compatible systems with a raw server-client setup (you must deploy the server, unfortunately). It's like Synergy or ShareMouse (we named our project before ShareMouse was a thing), except 100% more janky and 80% less functional, but still a cool demo of what you can do with Xlib. 
+
+
+joshell is a functioning shell that can execute commands of unlimited length and features some basic redirection, including bash's `>`, `<` and `>>` for IO redirection + the ability to execute multiple inline commands easily.
+
 
 ## Cuties CV
 
