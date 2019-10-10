@@ -19,6 +19,7 @@ My hobbies outside of tech are reading, balling and struggling to learn the keyb
 * [NYC Interscholastic Math League](http://www.nyciml.org/) Lead Programmer
 * Stuyvesant High School Robotics (2015-2018; StuyFusion President 2017-18, Head of Software 2016-17)
 * Stuyvesant Student Union IT Director (2017-18), Alumni Advisor (18-19)
+* [Chowdhury for NYS Senate](https://www.newyorker.com/magazine/2018/01/22/teen-ager-tries-to-unseat-new-york-state-senator-when-he-isnt-smashing-laptops), Webmaster / UI Designer
 
 For descriptions of some of the more interesting projects I've worked on (often-times related to these activities), please check out [Projects](/projects)!
 
