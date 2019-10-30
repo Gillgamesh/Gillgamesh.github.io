@@ -10,6 +10,7 @@ Many of these projects were originally for school and have only been slightly mo
 
 - [2019](#2019)
     - [NYCIML Scoring](#nyciml-scoring)\*\*
+    - [Politech](#sbu-politech-demo-system)
     - [Pathfinder](#pathfinder)
 - [2018](#2018)
     - [StuyActivities.org](#stuyactivitiesorg)\*\*
@@ -60,7 +61,7 @@ The scoring table is seperated per team-contest pair, and has a limit on how man
 Over the past few months, I've worked on cleaning up, fixing, and optimizing a project by Stony Brook Grad student Matt Weston under the supervision of Dr. Robert Kelly. The system uses simulated annealing as an optimization strategy for finding districts (made up of current voter precincts) that maximize a number of measures which I've spent a significant amount of time improving and adding to (including new population density and geometric compactness measures).
 The job of this specific project is to serve as a visualization of what computers are capable of doing for fairly drawing districts and resolving political issues.
 
-![Politech](/assets/img/politech-1.gif/)
+![Politech](/assets/img/politech-1.gif)
 
 ## Pathfinder 
 
