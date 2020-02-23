@@ -9,6 +9,8 @@ SOURCE = "."
 CONFIG = {
   'posts' => File.join(SOURCE, "_posts"),
   'post_ext' => "md",
+  'projects' => File.join(SOURCE, "_projects"),
+  'projects_ext' => "md",
   'theme_package_version' => "0.1.0"
 }
 

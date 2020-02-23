@@ -1,7 +1,6 @@
 ---
 layout: content
 title: Projects
-permalink: /projects/
 ---
 
 I've decided to include all of my major projects that are at least what I'd consider a minimal viable product, going all the way back to my Sophomore year of high school in 2015 to today, instead of just the projects I would show off to recruiters or friends (labeled \*). It's awesome to see how much better I've gotten with structuring code in readable ways, and being able to work on larger scale projects, but of course I've still got a lot to learn. 

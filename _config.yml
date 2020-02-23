@@ -1,7 +1,7 @@
 # Site settings
 title: "Gilvir's Portfolio"
 description: > 
-  Hello! I'm Gilvir, a NYC-based programmer and student. Thanks for checking out my Portfolio/Future Blog!
+  Hello! I'm Gilvir, an NYC-based programmer and student. Thank you for checking out my portfolio and blog!
 
 author: Gilvir Gill
 email: personal@gilvirgill.com
@@ -13,13 +13,19 @@ url: "https://gilvirgill.com" # the base hostname & protocol for your site
 google_analytics_id: UA-1111111111-1
 disqus_id:
 
+collections:
+    projects:
+        output: true
 # Build settings
-include: [_pages]
+include: [_pages, _projects]
 markdown: kramdown
 permalink: /:year/:month/:title.html
+excerpt_separator: <!--more-->
 
 sass:
     style: compressed
+
+
 
 exclude: [vendor]
 
