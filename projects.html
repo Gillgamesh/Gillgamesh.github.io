@@ -5,9 +5,7 @@ title: Projects
 <article class="c-article">
     <div class="c-article__main">
         {% for project in (site.projects )  %}
-        <div style="background-color:white" id="project-{{forloop.index}}" class="c-article__main">
         {{ project.content }}
-        </div>
         <hr/>
         {% endfor %}
     </div>
