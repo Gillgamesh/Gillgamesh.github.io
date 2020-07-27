@@ -17,7 +17,7 @@ In addition to learning about software full-time, I've spent the last few years 
 ## Things I('ve) Do(ne)
 
 * [SBU PoliTech](https://www.stonybrook.edu/commcms/vertically-integrated-projects/teams/_team_page/team_page.php?team=PoliTech) Research Team
-* [Kinet-X](https://www.kinet-x.org/) Learning Engineering Mentor / Advanced Course Manager
+* Kinet-X Learning Engineering Mentor / Advanced Course Manager
 * [NYC Interscholastic Math League](http://www.nyciml.org/) Lead Programmer
 * Stuyvesant High School Robotics (2015-2018; StuyFusion President 2017-18, Head of Software 2016-17)
 * Stuyvesant Student Union IT Director (2017-18), Alumni Advisor (18-19)
