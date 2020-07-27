@@ -8,7 +8,7 @@ title: NYCIML Scores
 
 ### Links
 
-* <a href="https://scores.nyciml.org" target="_blank">Website</a>
+* <a href="https://scoring.nyciml.org" target="_blank">Website</a>
 * <a href="https://github.com/alexlu876/iml-scoring" target="_blank">Source</a>
 * <a href="https://pypi.org/project/graphene-cerberus" target="_blank">Graphene-Cerberus</a>
 

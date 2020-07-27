@@ -4,6 +4,8 @@ date: 2020-02-05
 title: Boneless Relativity
 ---
 
+## Boneless Relativity
+
 ### Links
 
 * [Source](https://gitlab.com/Gillgamesh/boneless_relativity)

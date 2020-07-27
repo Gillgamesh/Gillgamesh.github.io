@@ -75,6 +75,10 @@ img {
     font-style: italic;
     vertical-align: middle;
     border: 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 svg:not(:root) { overflow: hidden; }
